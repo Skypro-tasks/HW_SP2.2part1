@@ -65,3 +65,6 @@ public class HufflepuffStudent extends HogwartsStudent {
                 ", honesty=" + honesty;
     }
 }
+
+
+
